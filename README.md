@@ -8,4 +8,4 @@
   ![survey2](https://github.com/SumitBana/DashBoard_PowerBi/assets/142825429/b5d70d59-e36d-48bd-a662-f168d423c778)
 
 ### Note
-- It is recommended to check the Survey Data Table from the Power Query after downloading the Survey_Breakdown_1.pbix file.
+- It is recommended to check the Data Tables from the Power Query after downloading every ".pbix" file provided in the repository for better understanding.
